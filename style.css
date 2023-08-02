@@ -1,0 +1,10 @@
+.font-lato {
+    font-family: 'Lato', sans-serif;
+}
+.bg-image {
+    background: linear-gradient(rgba(0,0,0,0.6),rgba(0,0,0,0.5)), url('./images/team.png');
+    width: 100%;
+    height: auto;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
